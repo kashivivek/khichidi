@@ -770,7 +770,7 @@ header {
         font-size: 14px; }
       .menu-dish li .text .price {
         position: absolute;
-        top: 20px;
+        top: 10px;
         right: 10px;
         font-size: 24px;
         color: #404044;
